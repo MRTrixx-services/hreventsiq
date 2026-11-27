@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
         Learn from industry professionals and build a safer,
         more productive workplace.`,
 
-        image: "/static/home/images/hero-woman-laptop.png",
+        image: "/static/home/images/slider1.png",
         alt: "Professional woman attending workplace webinar"
     },
 
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         description: `Build a respectful and inclusive workplace through expert-led training. Help employees develop awareness, strengthen teamwork and create a positive, supportive work environment.`,
 
-        image: "/static/home/images/hero-team-learning.png",
+        image: "/static/home/images/slider2.png",
         alt: "Professionals learning together"
     },
 
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         description: `Strengthen your team's knowledge and professional skills with flexible live webinars and on-demand training. Gain practical insights from industry experts and build a more skilled, confident and productive workforce.`,
 
-        image: "/static/home/images/hero-trainer-cutout.png",
+        image: "/static/home/images/slider3.png",
         alt: "Professional workplace trainer"
     }
 ];
